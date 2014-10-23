@@ -6,7 +6,7 @@
 */
 
 const int PIXEL_PIN = 8; // NeoPixel input on digital 8.
-const int POT_PIN = A0; // Potentiometer output on analog 0.
+const int POT_PIN = 0; // Potentiometer output on analog 0.
 
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = pin number (most are valid)
